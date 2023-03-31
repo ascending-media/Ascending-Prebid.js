@@ -1,0 +1,15 @@
+[
+  "googleAnalyticsAdapter",
+  "ixBidAdapter",
+  "appnexusBidAdapter",
+  "pulsepointBidAdapter",
+  "criteoBidAdapter",
+  "aolBidAdapter",
+  "prebidServerBidAdapter",
+  "openxBidAdapter",
+  "tripleliftBidAdapter",
+  "dfpAdServerVideo",
+  "conversantBidAdapter",
+  "rubiconBidAdapter",
+  "sovrnBidAdapter"
+]
